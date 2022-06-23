@@ -1,4 +1,4 @@
-### Olá, me chamo Matheus Laranjeira
+### 👋 Olá, me chamo Matheus Laranjeira
 ##
 
 Formado em Administração pela Universidade Veiga de Almeida (UVA) e Mestre em Economia pela Universidade Federal do Paraná (UFPR), desenvolvi pesquisas nos campos de economia internacional, comércio internacional e investimento estrangeiro, onde me descobri apaixonado pela ciência de dados e pesquisa.
